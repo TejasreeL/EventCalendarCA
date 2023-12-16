@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EventCalendarCA/static/css/main.ed27dcc2.css",
+    "main.js": "/EventCalendarCA/static/js/main.e1b24b9b.js",
+    "static/js/787.ced27ac1.chunk.js": "/EventCalendarCA/static/js/787.ced27ac1.chunk.js",
+    "index.html": "/EventCalendarCA/index.html",
+    "main.ed27dcc2.css.map": "/EventCalendarCA/static/css/main.ed27dcc2.css.map",
+    "main.e1b24b9b.js.map": "/EventCalendarCA/static/js/main.e1b24b9b.js.map",
+    "787.ced27ac1.chunk.js.map": "/EventCalendarCA/static/js/787.ced27ac1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed27dcc2.css",
+    "static/js/main.e1b24b9b.js"
+  ]
+}
